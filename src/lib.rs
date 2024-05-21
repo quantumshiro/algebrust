@@ -1,2 +1,2 @@
 pub mod group;
-pub mod field;
+pub mod ring;
